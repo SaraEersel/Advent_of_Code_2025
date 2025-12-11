@@ -18,7 +18,7 @@ This repository contains my solutions for Advent of Code 2025. The goals are:
 
 | Day | Part 1 | Part 2 |
 |-----|--------|--------|
-| 1   | ❌     | ❌    | 
+| 1   | ✅     | ❌    | 
 | 2   | ❌     | ❌    | 
 | 3   | ❌     | ❌    | 
 | 4   | ❌     | ❌    | 
